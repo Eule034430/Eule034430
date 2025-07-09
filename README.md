@@ -1,16 +1,31 @@
-## Hi there 👋
 
-<!--
-**Eule034430/Eule034430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Eugene Lee
 
-Here are some ideas to get you started:
+I'm a Full Stack Developer in training, currently studying towards a  Diploma in Digital Technology Development and Design. I'm passionate about building real-world web applications using modern tools like React, Node.js, and cloud services. I'm also working casually as a Korean-English interpreter and part-time in hospitality — both roles helping me strengthen my communication and teamwork skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I'm Working On
+- Personal Projects: Interactive web apps using React, Express, and MongoDB
+- Mission Ready Projects: AI-powered tools, car insurance systems, and cloud-based APIs
+- Learning Docker, containerization, and deployment on Azure
+
+---
+
+### Tech Stack
+- **Frontend**: React, HTML, CSS, JavaScript
+- **Backend**: Node.js, Express.js, MongoDB, MySQL
+- **Dev Tools**: Git, GitHub, Docker, VS Code, Postman
+- **Cloud & AI**: Google Gemini, Rest APIs
+
+---
+
+### Featured Projects
+- [Fuel Station Finder] (https://github.com/zetapow/mission5) - location-based MongoDB
+- [AI Job Interviewer] (https://github.com/Eule034430/Mission3) - chatbot powered by Google Gemini
+- [Car Type Detection] (https://github.com/Eule034430/Mission1) - Azure Custom Vision API + React UI
+
+--- 
+
+### Let's Connect!
+- LinkedIn (https://www.linkedin.com/in/eule0330)
