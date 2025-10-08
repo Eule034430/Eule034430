@@ -1,7 +1,7 @@
 
 # Hi, I'm Eugene Lee
 
-I'm a Full Stack Developer in training, currently studying towards a  Diploma in Digital Technology Development and Design. I'm passionate about building real-world web applications using modern tools like React, Node.js, and cloud services. I'm also working casually as a Korean-English interpreter and part-time in hospitality — both roles helping me strengthen my communication and teamwork skills.
+I'm a Full Stack Developer, with a  Diploma in Digital Technology Development and Design and a Bachelor's Degree in Statistics and Information and Technology Management. I'm passionate about building real-world web applications using modern tools like React, Node.js, and cloud services. I'm also working casually as a Korean-English interpreter and part-time in hospitality — both roles helping me strengthen my communication and teamwork skills.
 
 ---
 
@@ -16,7 +16,7 @@ I'm a Full Stack Developer in training, currently studying towards a  Diploma in
 - **Frontend**: React, HTML, CSS, JavaScript
 - **Backend**: Node.js, Express.js, MongoDB, MySQL
 - **Dev Tools**: Git, GitHub, Docker, VS Code, Postman
-- **Cloud & AI**: Google Gemini, Rest APIs
+- **Cloud, DevOps & AI**: Google Gemini (API), REST APIs, Kubernetes, AWS EKS, Docker, CI/CD 
 
 ---
 
