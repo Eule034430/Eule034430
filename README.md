@@ -1,22 +1,48 @@
 
 # Hi, I'm Eugene Lee
 
-I'm a Full Stack Developer, with a  Diploma in Digital Technology Development and Design and a Bachelor's Degree in Statistics and Information and Technology Management. I'm passionate about building real-world web applications using modern tools like React, Node.js, and cloud services. I'm also working casually as a Korean-English interpreter and part-time in hospitality — both roles helping me strengthen my communication and teamwork skills.
+I'm a New Zealand-based graduate with a background in Statistics and Information Technology Management, along with full stack development training through Mission Ready.
+
+I enjoy working across both software development and data analytics — from building web applications and APIs to exploring data, creating dashboards, and solving real-world problems through technology.
+
+During my internship at Foodstuffs North Island, I worked with GitHub and Bitbucket APIs, transformed engineering metrics data for BigQuery environments, and helped deliver reporting dashboards for leadership teams. That experience strengthened my interest in building practical, data-driven solutions.
 
 ---
 
-### What I'm Working On
-- Personal Projects: Interactive web apps using React, Express, and MongoDB
-- Mission Ready Projects: AI-powered tools, car insurance systems, and cloud-based APIs
-- Learning Docker, containerization, and deployment on Azure
+## Current Focus
+- Learning PostgreSQL and advanced SQL
+- Building data analytics portfolio projects
+- Developing full stack applications with React and Node.js
+- Improving cloud and data engineering skills
 
 ---
 
-### Tech Stack
-- **Frontend**: React, HTML, CSS, JavaScript
-- **Backend**: Node.js, Express.js, MongoDB, MySQL
-- **Dev Tools**: Git, GitHub, Docker, VS Code, Postman
-- **Cloud, DevOps & AI**: Google Gemini (API), REST APIs, Kubernetes, AWS EKS, Docker, CI/CD 
+## Technical Skills
+
+### Data & Analytics
+- SQL (PostgreSQL, MySQL)
+- Power BI
+- Python (Pandas, data analysis)
+- Excel
+- Tableau
+
+---
+
+### Development
+- JavaScript
+- React
+- Node.js
+- Express.js
+- REST APIs
+
+---
+
+### Tools & Platforms
+- Git & GitHub
+- Docker
+- BigQuery
+- VS Code
+- Postman
 
 ---
 
